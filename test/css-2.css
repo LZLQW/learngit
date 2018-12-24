@@ -1,0 +1,43 @@
+body{
+    width:100%;
+    height:100%;
+}
+#section{
+    width: 200px;
+    height: 250px;
+    margin: 0 auto;
+    text-align: center;
+    color: black;
+    top:50%;
+    left: 50%;
+    position:absolute; 
+    margin-top:-120px; 
+    margin-left:-150px;
+}
+#avatar{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    display: block;
+}
+#avatars{
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    position: absolute;
+    display: block;
+}
+#linkAdress{
+    font-size: 20px;
+    position: absolute;
+    bottom: 0;
+}
+
+a:hover {
+    color: blue;
+}
+a:link {
+    text-decoration: none
+    black;
+}
